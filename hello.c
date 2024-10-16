@@ -1,3 +1,4 @@
+// adding a comment
 // File hello.c
 #include <stdio.h>
 
